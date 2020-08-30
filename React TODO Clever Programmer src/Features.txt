@@ -1,0 +1,5 @@
+Firebase (Firestore Database and Hosting)
+Component Based Design
+CRUD Functionality
+Material-UI for the front end
+React hooks
