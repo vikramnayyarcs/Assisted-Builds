@@ -7,6 +7,8 @@ NOTE: For projects that aren't deployed there will be a screencast and/or the fi
 
 Deployed links:
 
+Python AI Object Detection: Will be deployed once I find a way to do so.
+
 Google Maps 5 Day Challenge with Clever Programmer: Couldn't be deployed because the free credit would've ran out, resulting in charges for the Google Maps API!!
 
 TODO APP React with Clever Programmer: https://compandcodetodocpf.web.app/
