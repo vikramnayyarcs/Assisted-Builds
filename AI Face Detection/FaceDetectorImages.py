@@ -10,7 +10,7 @@ haarcascade:
 Passes in training data, creates a classifier.
 This dataset allows frontal faces to be detected.
 '''
-#EM co-ordinates: [[184 127 187 187]]
+#Elon Musk's EM) co-ordinates: [[184 127 187 187]]
 img = cv2.imread('EM.jpg') #Imports an image into opencv. Reads as numbers (pixels, 2d array)
 #img = cv2.imread('MoneyTeam.jpg') #Multi person image.
 '''
