@@ -7,12 +7,14 @@ NOTE: For projects that aren't deployed there will be a screencast and/or the fi
 
 Deployed links:
 
-Python AI Object Detection: Will be deployed once I find a way to do so.
+  Python AI Object Detection: Will be deployed once I find a way to do so.
 
-Google Maps 5 Day Challenge with Clever Programmer: Couldn't be deployed because the free credit would've ran out, resulting in charges for the Google Maps API!!
+  Google Maps 5 Day Challenge with Clever Programmer: Couldn't be deployed because the free credit would've ran out, resulting in charges for the Google Maps API!!
 
-TODO APP React with Clever Programmer: https://compandcodetodocpf.web.app/
+  TODO APP React with Clever Programmer: https://compandcodetodocpf.web.app/
 
-Instagram CLONE with Clever Programmer: https://compandcodeinstagramclon-b9188.web.app/ (NOTE There's 1 error I couldn't fix however all the functionality still works).
+  Instagram CLONE with Clever Programmer: https://compandcodeinstagramclon-b9188.web.app/ (NOTE There's 1 error I couldn't fix however all the functionality still works).
 
-Facebook Messenger CLONE with Clever Programmer: https://compandcodemessengerclone.web.app/
+  Facebook Messenger CLONE with Clever Programmer: https://compandcodemessengerclone.web.app/
+  
+  YouTube FRONT END CLONE with Clever Programmer: https://compandcodeclone-d8826.web.app/
