@@ -13,7 +13,7 @@ Deployed links:
 
   TODO APP React with Clever Programmer: https://compandcodetodocpf.web.app/
 
-  Instagram CLONE with Clever Programmer: https://compandcodeinstagramclon-b9188.web.app/ (NOTE There's 1 error I couldn't fix however all the functionality still works).
+  Instagram CLONE with Clever Programmer: 
 
   Facebook Messenger CLONE with Clever Programmer: https://compandcodemessengerclone.web.app/
   
