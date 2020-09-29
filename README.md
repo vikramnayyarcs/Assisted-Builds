@@ -4,6 +4,8 @@ From the likes of Clever Programmer, Tech With Tim, Amigos Code and more!!
 
 NOTE: For projects that aren't deployed there will be a screencast and/or the files will be available to download. Also for the React projects they're too large to put on GitHub however they will be deployed with FireBase so the links will be below.
 
+I publish an acceptable version initially (e.g for Clever Programmer projects, I'll follow the steps they've done)and then I will come back to them and take these projects further!!
+
 
 Deployed links:
 
@@ -20,3 +22,5 @@ Deployed links:
   YouTube FRONT END CLONE with Clever Programmer: https://compandcodeclone-d8826.web.app/
   
   Amazon FRONT END CLONE with Clever Programmer: https://compandcodeclone-b9cc1.web.app/
+  
+  Hulu CLONE: https://compandcodehuluclone.web.app/
