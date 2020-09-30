@@ -15,7 +15,7 @@ Deployed links:
 
   TODO APP React with Clever Programmer: https://compandcodetodocpf.web.app/
 
-  Instagram CLONE with Clever Programmer: 
+  Instagram CLONE with Clever Programmer: https://compandcodeinstagramclone.web.app/
 
   Facebook Messenger CLONE with Clever Programmer: https://compandcodemessengerclone.web.app/
   
@@ -24,3 +24,5 @@ Deployed links:
   Amazon FRONT END CLONE with Clever Programmer: https://compandcodeclone-b9cc1.web.app/
   
   Hulu CLONE: https://compandcodehuluclone.web.app/
+  
+  Netflix CLONE:
