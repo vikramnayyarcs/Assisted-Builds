@@ -25,4 +25,4 @@ Deployed links:
   
   Hulu CLONE: https://compandcodehuluclone.web.app/
   
-  Netflix CLONE:
+  Netflix CLONE: https://compandcodenetflixclone-b60dd.web.app/
