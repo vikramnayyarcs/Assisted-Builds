@@ -26,3 +26,5 @@ Deployed links:
   Hulu CLONE: https://compandcodehuluclone.web.app/
   
   Netflix CLONE: https://compandcodenetflixclone-b60dd.web.app/
+  
+  Tinder CLONE: https://compandcodetinderclone.web.app/ 
