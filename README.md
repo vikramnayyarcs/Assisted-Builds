@@ -23,8 +23,8 @@ Deployed links:
   
   Amazon FRONT END CLONE with Clever Programmer: https://compandcodeclone-b9cc1.web.app/
   
-  Hulu CLONE: https://compandcodehuluclone.web.app/
+  Hulu CLONE with Clever Programmer: https://compandcodehuluclone.web.app/
   
-  Netflix CLONE: https://compandcodenetflixclone-b60dd.web.app/
+  Netflix CLONE with Clever Programmer: https://compandcodenetflixclone-b60dd.web.app/
   
-  Tinder CLONE: https://compandcodetinderclone.web.app/ 
+  Tinder CLONE with Clever Programmer: https://compandcodetinderclone.web.app/ 
