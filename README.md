@@ -28,3 +28,5 @@ Deployed links:
   Netflix CLONE with Clever Programmer: https://compandcodenetflixclone-b60dd.web.app/
   
   Tinder CLONE with Clever Programmer: https://compandcodetinderclone.web.app/ 
+  
+  Discord CLONE with Clever Programmer: https://compandcodediscordclone.web.app/
