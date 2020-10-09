@@ -29,4 +29,4 @@ Deployed links:
   
   Tinder CLONE with Clever Programmer: https://compandcodetinderclone.web.app/ 
   
-  Discord CLONE with Clever Programmer: https://compandcodediscordclone.web.app/
+  Discord CLONE (ReDux) with Clever Programmer: https://compandcodediscordclone.web.app/
