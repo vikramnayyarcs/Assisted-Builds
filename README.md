@@ -31,4 +31,4 @@ Deployed links:
   
   Discord CLONE (ReDux) with Clever Programmer: https://compandcodediscordclone.web.app/
   
-  iMessage CLONE with Clever Programmer: 
+  iMessage CLONE with Clever Programmer: https://compandcodeimessageclone.web.app/
