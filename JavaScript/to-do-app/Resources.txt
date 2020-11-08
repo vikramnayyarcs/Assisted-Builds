@@ -1,0 +1,8 @@
+https://firebase.google.com/docs/hosting/deploying#deploy
+https://firebase.google.com/docs/cli
+https://codesandbox.io/s/c2rih?file=/demos.js:1039:1052
+https://reactjs.org/docs/fragments.html
+https://material-ui.com/components/modal/#modal
+https://cloudinary.com/documentation/react_image_manipulation
+https://create-react-app.dev/docs/adding-images-fonts-and-files/
+https://imagecolorpicker.com/en/

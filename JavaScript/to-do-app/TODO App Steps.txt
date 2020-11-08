@@ -1,0 +1,4 @@
+1.) FireBase
+2.) React
+3.) TODO App
+4.) Deployed Online
