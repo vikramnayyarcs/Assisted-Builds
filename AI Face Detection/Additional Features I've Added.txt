@@ -1,5 +1,0 @@
-Detect eyes
-Detect tree glasses
-Detect cat faces
-Detect a full human body
-Detect russian licence plates *ONLY WORKS for ORGANISATION vehicles.

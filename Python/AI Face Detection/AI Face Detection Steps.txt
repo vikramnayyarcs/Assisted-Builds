@@ -1,0 +1,17 @@
+In this FREE LIVE training, Qazi and Aaron will show you how to build real time face detection with Python using openCV 🚀
+
+OpenCV's GitHub (To download their machine learning .xml files): https://github.com/opencv/opencv/tree...
+
+
+Actual xml File You Need (detects frontal faces - using Haar Cascade algorithm):
+https://raw.githubusercontent.com/ope...
+
+
+Haar Cascade Algorithm Final Visualization https://www.youtube.com/watch?v=hPCTwxF0qf4
+
+Steps:
+1.) Get a lot of faces (large dataset).
+2.) Make them black and white.
+3.) Train the algorithm to detect faces.
+
+USE BEGINNING OF VIDEO TO INSTALL EVERYTHING NEEDED.

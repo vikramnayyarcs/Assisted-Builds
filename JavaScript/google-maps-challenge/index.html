@@ -1,0 +1,49 @@
+<!DOCTYPE html> <!--CHANGE HARDCODED LINKS-->
+<html>
+<head>
+    <title>Google Map's 5 Day Challenge</title>
+    <link rel = "stylesheet" href="style/style.css">
+    <script src="https://kit.fontawesome.com/c939d0e917.js"></script>
+    <script src="js/store-data.js"></script><!--Imports the data (Starbucks stores)-->
+    <link rel="icon" 
+      type="image/png" 
+      href="images\Favicon.png">
+</head>
+<body>
+    <div class="center">
+        <img src="images\Title.png" alt="Starbucks Store Locator:">
+        <br>
+        <img src="images\StarbucksLogo.jpg" alt="Starbucks Logo">
+    </div>
+
+        <div class="search-container">
+            <div class="search">
+                <input id="zip-code-input" type="text" placeholder="Enter zip" />
+                <i class="fas fa-search" onclick="searchStores()" ></i>
+            </div>
+        </div>
+        <div class="stores-list-container">
+            <div class="stores-list">
+                <div class="store-container">
+                    <div class="store-info-container">
+                        <div class="store-address">
+                            <span>8480 Beverly Blvd</span>
+                            <span>Los Angeles, CA 90048</span>
+                        </div>
+                        <div class="store-phone-number">356-345-4654</div>
+                    </div>
+                    <div class="store-number-container">
+                        <div class="store-number">
+                            1
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="map"></div>
+        <script src="js/index.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=KEYGOESHERE &callback=initMap"
+        async defer></script>
+
+</body>
+</html>

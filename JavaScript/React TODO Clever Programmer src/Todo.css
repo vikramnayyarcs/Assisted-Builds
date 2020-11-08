@@ -1,0 +1,8 @@
+.todo__list{
+    text-align: center;
+}
+
+li {
+    background-color: #ffffff;
+    border: 5px solid #111111;
+}
