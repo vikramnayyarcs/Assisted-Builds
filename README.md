@@ -6,6 +6,8 @@ NOTE: For projects that aren't deployed there will be a screencast and/or the fi
 
 I publish an acceptable version initially (e.g for Clever Programmer projects, I'll follow the steps they've done)and then I will come back to them and take these projects further!!
 
+NOTE: The versions I am Publishing are the 'build' folders which are compressed into a single page app.
+
 
 Deployed links:
 
