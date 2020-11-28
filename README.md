@@ -36,3 +36,5 @@ Deployed links:
   iMessage CLONE with Clever Programmer: https://compandcodeimessageclone.web.app/
   
   Facebook CLONE with Clever Programmer: https://compandcodefacebookclone-ae330.web.app/
+  
+  Spotify CLONE with Clever Programmer: https://compandcodespotifyclone.web.app/
