@@ -31,7 +31,9 @@ Deployed links:
   
   Tinder CLONE with Clever Programmer: https://compandcodetinderclone.web.app/ 
   
-  Tinder Clone MERN with Clever Programmer: https://compandcodetinderclonemern.web.app/
+  Tinder CLONE MERN with Clever Programmer: https://compandcodetinderclonemern.web.app/
+  
+  LinkedIn CLONE REDUX with Sonny Sangha: https://compandcodelinkedinclone.web.app/
   
   Discord CLONE (ReDux) with Clever Programmer: https://compandcodediscordclone.web.app/
   
