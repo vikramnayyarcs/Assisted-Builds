@@ -44,3 +44,5 @@ Deployed links:
   Spotify CLONE with Clever Programmer: https://compandcodespotifyclone.web.app/
   
   LinkedIn CLONE with Sonny Sangha: https://compandcodelinkedinclone.web.app/
+  
+  Gmail CLONE with Sonny Sangha: https://compandcodeclone-e64cf.web.app/
