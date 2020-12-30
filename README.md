@@ -23,7 +23,7 @@ Deployed links:
   
   YouTube FRONT END CLONE with Clever Programmer: https://compandcodeclone-d8826.web.app/
   
-  Amazon FRONT END CLONE with Clever Programmer: https://compandcodeclone-b9cc1.web.app/
+  Amazon FULL CLONE with Clever Programmer: https://compandcodeclone-7b4f7.web.app/
   
   Hulu CLONE with Clever Programmer: https://compandcodehuluclone.web.app/
   
