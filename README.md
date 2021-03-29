@@ -52,3 +52,5 @@ Deployed links:
   Snapchat CLONE with Sonny Sangha: https://compandcodesnapchatclone.web.app/
   
   Slack CLONE with Sonny Sangha: https://compandcodeslackclone.firebaseapp.com/
+  
+  WhatsApp Clone WITH Private Chats: NOT DEPLOYED.
