@@ -53,4 +53,6 @@ Deployed links:
   
   Slack CLONE with Sonny Sangha: https://compandcodeslackclone.firebaseapp.com/
   
-  WhatsApp Clone WITH Private Chats: NOT DEPLOYED.
+  WhatsApp Clone WITH Private Chats: FINISHED NOT DEPLOYED.
+  
+  Google CLONE: FINISHED NOT DEPLOYED.
