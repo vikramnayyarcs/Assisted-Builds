@@ -55,8 +55,7 @@ Deployed links:
   
   WhatsApp Clone WITH Private Chats: FINISHED NOT DEPLOYED.
   
-  Google CLONE: https://google-clone-deployed-git-master-vikramnayyarcs.vercel.app/ || https://google-clone-deployed-vikramnayyarcs.vercel.app/ || 
-                https://google-clone-deployed-m6rdwk1wi-vikramnayyarcs.vercel.app/
+  Google CLONE: https://google-clone-deployed.vercel.app/
   
   Ultimate Gmail Clone:
   
