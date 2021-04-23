@@ -57,6 +57,8 @@ Deployed links:
   
   Google CLONE: https://google-clone-deployed.vercel.app/
   
+  Hulu 2.0 CLONE: https://hulu-five.vercel.app/
+  
   Ultimate Gmail Clone:
   
   First Node JS API:
