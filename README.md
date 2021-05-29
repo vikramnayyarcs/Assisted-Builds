@@ -59,6 +59,8 @@ Deployed links:
   
   Hulu 2.0 CLONE: https://hulu-five.vercel.app/
   
+  Facebook 2.0 CLONE: https://facebook-clone-2-0-2p47zeu61-vikramnayyarcs.vercel.app/
+  
   Twitter Clone:
   
   Ultimate Gmail Clone:
